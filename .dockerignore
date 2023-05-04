@@ -1,0 +1,25 @@
+# Node.js build artifacts
+node_modules
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.cache
+dist
+
+# Prisma
+prisma/client
+
+# Git and GitHub
+.git
+.gitignore
+.github
+
+# Editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
